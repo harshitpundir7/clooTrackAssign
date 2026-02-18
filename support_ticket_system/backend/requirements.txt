@@ -3,4 +3,5 @@ djangorestframework
 psycopg2-binary
 requests
 gunicorn
-corsheaders
+django-cors-headers
+django-filter
